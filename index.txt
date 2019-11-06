@@ -1,1 +1,6 @@
-Jiangchen Zhu is a computer science senior student at the University of Michigan. He is interested in computer networks and systems. 
++-----------------------------------------------------------------------------------+
+|                                                                                   |
+| Jiangchen Zhu is a computer science senior student at the University of Michigan. |
+| He is interested in computer networks and systems.                                |
+|                                                                                   |
++-----------------------------------------------------------------------------------+
